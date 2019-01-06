@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Noah Olsman's personal website"
+title: "Noah Olsman's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
