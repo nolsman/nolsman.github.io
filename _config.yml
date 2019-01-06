@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Noah Olsman"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Research Fellow in the department of systems biology at Harvard Medical School"
   location         : "Boston, MA"
-  employer         : "Harvard Medical School - Department of Systems Biology"
+  employer         : "Harvard Medical School"
   googlescholar    : "https://scholar.google.com/citations?user=zNMJtYMAAAAJ&hl=en"
   email            : "noah_olsman@hms.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
