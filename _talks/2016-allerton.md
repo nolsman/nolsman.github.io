@@ -2,7 +2,7 @@
 title: "Efficient Bayesian Learning in Social Networks with Gaussian Estimators"
 collection: talks
 type: "Talk"
-permalink: /talks/2016-allerton
+permalink: /talks/2016-allerton.md
 venue: "54th Annual Allerton Conference on Communication, Control, and Computing (Allerton)"
 date: 2016-08-27
 location: "Monticello, IL., USA"
