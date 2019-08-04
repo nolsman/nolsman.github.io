@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer program"
 permalink: /teaching/2018-math-academy
 venue: "Math Academy"
-date: 2018-05-01
+date: 2018-06-01
 location: "Pasadena, CA., USA"
 ---
 
