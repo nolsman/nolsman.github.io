@@ -1,7 +1,7 @@
 ---
 title: "Math Academy Summer Course: Introduction to Coding and Information Theory"
 collection: teaching
-type: "summer class"
+type: "Summer program"
 permalink: /teaching/2018-math-academy
 venue: "Math Academy"
 date: 2018-05-01
