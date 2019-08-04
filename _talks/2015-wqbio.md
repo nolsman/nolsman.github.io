@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2015-wqbio.md
 venue: "3rd Annual Winter Quantiative Biology Meeting."
-date: 2015-02-01
+date: 2015-02-22
 location: "Maui, Hawaii"
 ---
 
